@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FoxCod.Launcher/1.0.0": {
+        "dependencies": {
+          "FoxCod.Core": "1.0.0"
+        },
+        "runtime": {
+          "FoxCod.Launcher.dll": {}
+        }
+      },
+      "FoxCod.Core/1.0.0": {
+        "runtime": {
+          "FoxCod.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoxCod.Launcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FoxCod.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "iN+FHq2mMBc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FoxCod\\FoxCod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\5.3.0-2.25625.1\\microsoft.codeanalysis.analyzers.5.3.0-2.25625.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.common\\5.3.0\\microsoft.codeanalysis.common.5.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.csharp\\5.3.0\\microsoft.codeanalysis.csharp.5.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\spectre.console\\0.55.2\\spectre.console.0.55.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\spectre.console.ansi\\0.55.2\\spectre.console.ansi.0.55.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.commandline\\2.0.8\\system.commandline.2.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Json не будет урезано. Рассмотрите возможность удаления этого пакета из зависимостей, так как он, вероятно, не требуется.",
+      "projectPath": "C:\\Users\\user\\Desktop\\FoxCod\\FoxCod.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\user\\Desktop\\FoxCod\\FoxCod.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
