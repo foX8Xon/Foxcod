@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FoxCod.Core/FoxCod.Core.csproj" />
+  <Project Path="FoxCod.Launcher/FoxCod.Launcher.csproj" />
+</Solution>
